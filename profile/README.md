@@ -15,6 +15,8 @@
 <br>
 ✦ <strong>Júlia Hartmann</strong>  —  [@JuliaaHartmann](https://github.com/JuliaaHartmann)
 
+<br>
+
 ## 🛠️ Stack
 
 <p align="left">
