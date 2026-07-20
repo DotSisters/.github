@@ -7,12 +7,17 @@
 > Somos uma organização criada para o desenvolvimento colaborativo de projetos de software durante nossa jornada na [Academia do Programador](https://academiadoprogramador.com.br).
 > Aqui centralizamos nossos estudos, desafios e aplicações desenvolvidas em dupla, aplicando boas práticas de engenharia de software, arquitetura em camadas, versionamento com Git e desenvolvimento Full Stack utilizando o ecossistema .NET.
 
- ### 👩‍💻 Integrantes
+<br>
 
-- Natália Bortoli Vieira — [@nataliavieirab](https://github.com/nataliavieirab)
-- Júlia Hartmann — [@JuliaaHartmann](https://github.com/JuliaaHartmann)
+ ## 🎀 Integrantes
 
-### 🛠️ Stack
+✦ <strong>Natália Bortoli Vieira</strong>  —  [@nataliavieirab](https://github.com/nataliavieirab)
+<br>
+✦ <strong>Júlia Hartmann</strong>  —  [@JuliaaHartmann](https://github.com/JuliaaHartmann)
+
+<br>
+
+## 🛠️ Stack
 
 <p align="left">
   <!-- Languages -->
@@ -112,6 +117,7 @@ Sistema para organizar o empréstimo de revistas em quadrinhos: caixas, revistas
 **Tecnologias:** .NET 10 · ASP.NET Core MVC · Razor Views · Bootstrap 5 · Persistência em arquivo JSON
 
 ---
+
 <p align="center">
   <img src="./header-dotsisters.png" alt="DotSisters" width="100%">
 </p>
@@ -119,3 +125,6 @@ Sistema para organizar o empréstimo de revistas em quadrinhos: caixas, revistas
 <p align="center">
   <sub>Projetos desenvolvidos e revisados no contexto da <a href="https://academiadoprogramador.com.br">Academia do Programador</a>.</sub>
 </p>
+
+
+
