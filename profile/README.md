@@ -7,14 +7,15 @@
 > Somos uma organização criada para o desenvolvimento colaborativo de projetos de software durante nossa jornada na [Academia do Programador](https://academiadoprogramador.com.br).
 > Aqui centralizamos nossos estudos, desafios e aplicações desenvolvidas em dupla, aplicando boas práticas de engenharia de software, arquitetura em camadas, versionamento com Git e desenvolvimento Full Stack utilizando o ecossistema .NET.
 
- ### 🎀 Integrantes
+<br>
+
+ ## 🎀 Integrantes
 
 ✦ <strong>Natália Bortoli Vieira</strong>  —  [@nataliavieirab](https://github.com/nataliavieirab)
 <br>
 ✦ <strong>Júlia Hartmann</strong>  —  [@JuliaaHartmann](https://github.com/JuliaaHartmann)
 
-
-### 🛠️ Stack
+## 🛠️ Stack
 
 <p align="left">
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" alt="C#" title="C#" />
@@ -32,8 +33,9 @@
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" alt="Microsoft Azure" title="Microsoft Azure" />
 </p>
 
+<br>
 
-### 📂 Projetos
+## 📂 Projetos
 
 ## 🎓 [Escola de Cursos](https://github.com/DotSisters/escola-de-cursos)
 
