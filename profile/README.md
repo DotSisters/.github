@@ -32,7 +32,6 @@
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" alt="Microsoft Azure" title="Microsoft Azure" />
 </p>
 
-<br>
 
 ### 📂 Projetos
 
