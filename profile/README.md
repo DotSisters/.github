@@ -50,7 +50,7 @@
 
 ### 🎓 [Escola de Cursos](https://github.com/DotSisters/escola-de-cursos)
 
-Sistema de gerenciamento acadêmico para organizar cursos, módulos/aulas, categorias, instrutores, turmas, alunos e matrículas, com consistência garantida por regras de negócio.
+> Sistema de gerenciamento acadêmico para organizar cursos, módulos/aulas, categorias, instrutores, turmas, alunos e matrículas, com consistência garantida por regras de negócio.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DotSisters/escola-de-cursos/main/.docs/home.gif" alt="Demonstração da Escola de Cursos" width="800">
@@ -64,7 +64,7 @@ Sistema de gerenciamento acadêmico para organizar cursos, módulos/aulas, categ
 
 ### 📒 [e-Agenda](https://github.com/DotSisters/e-agenda)
 
-Agenda pessoal completa: contatos, compromissos (presenciais ou remotos), categorias, despesas e tarefas com itens e percentual de conclusão — tudo com regras de negócio bem definidas.
+> Agenda pessoal completa: contatos, compromissos (presenciais ou remotos), categorias, despesas e tarefas com itens e percentual de conclusão — tudo com regras de negócio bem definidas.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DotSisters/e-agenda/main/.docs/home.gif" alt="Demonstração do e-Agenda" width="800">
@@ -78,7 +78,7 @@ Agenda pessoal completa: contatos, compromissos (presenciais ou remotos), catego
 
 ### 💊 [Controle de Medicamentos](https://github.com/DotSisters/controle-de-medicamentos-web)
 
-Sistema para farmácias/postos controlarem fornecedores, pacientes, medicamentos, funcionários e o fluxo de estoque (entradas e saídas), destacando medicamentos em falta.
+> Sistema para farmácias/postos controlarem fornecedores, pacientes, medicamentos, funcionários e o fluxo de estoque (entradas e saídas), destacando medicamentos em falta.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DotSisters/controle-de-medicamentos-web/main/.docs/home.gif" alt="Demonstração do Controle de Medicamentos" width="800">
@@ -92,7 +92,7 @@ Sistema para farmácias/postos controlarem fornecedores, pacientes, medicamentos
 
 ### 🛒 [Lista de Compras](https://github.com/DotSisters/lista-de-compras-web)
 
-Aplicação para montar e gerenciar listas de compras, com produtos organizados por categoria, unidades de medida, preços aproximados e cálculo automático do total estimado.
+> Aplicação para montar e gerenciar listas de compras, com produtos organizados por categoria, unidades de medida, preços aproximados e cálculo automático do total estimado.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DotSisters/lista-de-compras-web/main/.docs/home.gif" alt="Demonstração da Lista de Compras" width="800">
@@ -106,7 +106,7 @@ Aplicação para montar e gerenciar listas de compras, com produtos organizados 
 
 ### 📚 [Clube da Leitura](https://github.com/DotSisters/clube-da-leitura-web)
 
-Sistema para organizar o empréstimo de revistas em quadrinhos: caixas, revistas, amigos e controle de empréstimos/devoluções, com destaque visual para atrasos.
+> Sistema para organizar o empréstimo de revistas em quadrinhos: caixas, revistas, amigos e controle de empréstimos/devoluções, com destaque visual para atrasos.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DotSisters/clube-da-leitura-web/main/.docs/clubeleituraweb.gif" alt="Demonstração do Clube da Leitura" width="800">
