@@ -20,24 +20,15 @@
 ## 🛠️ Stack
 
 <p align="left">
-  <!-- Languages -->
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" alt="C#" title="C#" />
-
-  <!-- Backend -->
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" alt=".NET" title=".NET" />
   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" alt="Entity Framework Core" title="Entity Framework Core" />
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg" alt="Visual Studio" title="Visual Studio" />
-
-  <!-- Frontend -->
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML5" title="HTML5" />
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS3" title="CSS3" />
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="Bootstrap" title="Bootstrap" />
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" title="JavaScript" />
-
-  <!-- Database -->
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server" />
-
-  <!-- DevOps -->
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" title="Git" />
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" title="GitHub" />
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Dark.svg" alt="GitHub Actions" title="GitHub Actions" />
@@ -56,9 +47,16 @@
   <img src="https://raw.githubusercontent.com/DotSisters/escola-de-cursos/main/.docs/home.gif" alt="Demonstração da Escola de Cursos" width="800">
 </p>
 
-**Módulos:** Cursos · Módulos/Aulas · Categorias · Instrutores · Turmas · Alunos · Matrículas
-
-**Tecnologias:** .NET 10 · ASP.NET Core MVC · Razor Views · Bootstrap 5 · Arquitetura em camadas (WebApp, Aplicação, Domínio, Infra) · Entity Framework Core · SQL Server · AutoMapper · FluentResults · Serilog
+<table align="center">
+  <tr>
+    <td><strong>Tecnologias</strong></td>
+    <td>.NET 10 ▫️ ASP.NET Core MVC ▫️ Razor Views ▫️ Bootstrap 5 ▫️ Arquitetura em camadas (WebApp, Aplicação, Domínio, Infra) ▫️ Entity Framework Core ▫️ SQL Server ▫️ AutoMapper ▫️ FluentResults ▫️ Serilog</td>
+  </tr>
+  <tr>
+    <td><strong>Módulos</strong></td>
+    <td>Cursos ▫️ Módulos/Aulas ▫️ Categorias ▫️ Instrutores ▫️ Turmas ▫️ Alunos ▫️ Matrículas</td>
+  </tr>
+</table>
 
 ---
 
@@ -70,9 +68,16 @@
   <img src="https://raw.githubusercontent.com/DotSisters/e-agenda/main/.docs/home.gif" alt="Demonstração do e-Agenda" width="800">
 </p>
 
-**Módulos:** Contatos · Compromissos · Categorias · Despesas · Tarefas (e itens)
-
-**Tecnologias:** .NET 10 · ASP.NET Core MVC · Razor Views · Bootstrap 5 · AutoMapper · FluentResults · Dapper · SQL Server · Serilog
+<table align="center">
+  <tr>
+    <td><strong>Tecnologias</strong></td>
+    <td>.NET 10 ▫️ ASP.NET Core MVC ▫️ Razor Views ▫️ Bootstrap 5 ▫️ AutoMapper ▫️ FluentResults ▫️ Dapper ▫️ SQL Server ▫️ Serilog</td>
+  </tr>
+  <tr>
+    <td><strong>Módulos</strong></td>
+    <td>Contatos ▫️ Compromissos ▫️ Categorias ▫️ Despesas ▫️ Tarefas (e itens)</td>
+  </tr>
+</table>
 
 ---
 
@@ -84,9 +89,16 @@
   <img src="https://raw.githubusercontent.com/DotSisters/controle-de-medicamentos-web/main/.docs/home.gif" alt="Demonstração do Controle de Medicamentos" width="800">
 </p>
 
-**Módulos:** Fornecedores · Pacientes · Medicamentos · Funcionários · Estoque (entrada/saída)
-
-**Tecnologias:** .NET 10 · ASP.NET Core MVC · Razor Views · Bootstrap 5 · AutoMapper · FluentResults · Persistência em arquivo JSON
+<table align="center">
+  <tr>
+    <td><strong>Tecnologias</strong></td>
+    <td>.NET 10 ▫️ ASP.NET Core MVC ▫️ Razor Views ▫️ Bootstrap 5 ▫️ AutoMapper ▫️ FluentResults ▫️ Persistência em arquivo JSON</td>
+  </tr>
+  <tr>
+    <td><strong>Módulos</strong></td>
+    <td>Fornecedores ▫️ Pacientes ▫️ Medicamentos ▫️ Funcionários ▫️ Estoque (entrada/saída)</td>
+  </tr>
+</table>
 
 ---
 
@@ -98,9 +110,16 @@
   <img src="https://raw.githubusercontent.com/DotSisters/lista-de-compras-web/main/.docs/home.gif" alt="Demonstração da Lista de Compras" width="800">
 </p>
 
-**Módulos:** Categorias · Produtos · Listas de Compras · Itens da Lista
-
-**Tecnologias:** .NET 10 · ASP.NET Core MVC · Razor Views · Bootstrap 5 · AutoMapper · FluentResults · Persistência em arquivo JSON
+<table align="center">
+  <tr>
+    <td><strong>Tecnologias</strong></td>
+    <td>.NET 10 ▫️ ASP.NET Core MVC ▫️ Razor Views ▫️ Bootstrap 5 ▫️ AutoMapper ▫️ FluentResults ▫️ Persistência em arquivo JSON</td>
+  </tr>
+  <tr>
+    <td><strong>Módulos</strong></td>
+    <td>Categorias ▫️ Produtos ▫️ Listas de Compras ▫️ Itens da Lista</td>
+  </tr>
+</table>
 
 ---
 
@@ -112,9 +131,16 @@
   <img src="https://raw.githubusercontent.com/DotSisters/clube-da-leitura-web/main/.docs/clubeleituraweb.gif" alt="Demonstração do Clube da Leitura" width="800">
 </p>
 
-**Módulos:** Caixas · Revistas · Amigos · Empréstimos
-
-**Tecnologias:** .NET 10 · ASP.NET Core MVC · Razor Views · Bootstrap 5 · Persistência em arquivo JSON
+<table align="center">
+  <tr>
+    <td><strong>Tecnologias</strong></td>
+    <td>.NET 10 ▫️ ASP.NET Core MVC ▫️ Razor Views ▫️ Bootstrap 5 ▫️ Persistência em arquivo JSON</td>
+  </tr>
+  <tr>
+    <td><strong>Módulos</strong></td>
+    <td>Caixas ▫️ Revistas ▫️ Amigos ▫️ Empréstimos</td>
+  </tr>
+</table>
 
 ---
 
