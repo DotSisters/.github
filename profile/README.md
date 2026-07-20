@@ -1,15 +1,14 @@
 # DotSisters
 
-Somos uma organização criada para o desenvolvimento colaborativo de projetos de software durante nossa jornada na [Academia do Programador](https://academiadoprogramador.com.br).
-
-Aqui centralizamos nossos estudos, desafios e aplicações desenvolvidas em dupla, aplicando boas práticas de engenharia de software, arquitetura em camadas, versionamento com Git e desenvolvimento Full Stack utilizando o ecossistema .NET.
+> Somos uma organização criada para o desenvolvimento colaborativo de projetos de software durante nossa jornada na [Academia do Programador](https://academiadoprogramador.com.br).
+> Aqui centralizamos nossos estudos, desafios e aplicações desenvolvidas em dupla, aplicando boas práticas de engenharia de software, arquitetura em camadas, versionamento com Git e desenvolvimento Full Stack utilizando o ecossistema .NET.
 
  ### 👩‍💻 Integrantes
 
 - Natália Bortoli Vieira — [@nataliavieirab](https://github.com/nataliavieirab)
 - Júlia Hartmann — [@JuliaaHartmann](https://github.com/JuliaaHartmann)
 
-### 🛠️ Tecnologias / Stack
+### 🛠️ Stack
 
 <p align="left">
   <!-- Languages -->
