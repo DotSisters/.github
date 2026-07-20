@@ -7,14 +7,14 @@
 > Somos uma organização criada para o desenvolvimento colaborativo de projetos de software durante nossa jornada na [Academia do Programador](https://academiadoprogramador.com.br).
 > Aqui centralizamos nossos estudos, desafios e aplicações desenvolvidas em dupla, aplicando boas práticas de engenharia de software, arquitetura em camadas, versionamento com Git e desenvolvimento Full Stack utilizando o ecossistema .NET.
 
- ## 🎀 Integrantes
+ ### 🎀 Integrantes
 
 ✦ <strong>Natália Bortoli Vieira</strong>  —  [@nataliavieirab](https://github.com/nataliavieirab)
 <br>
 ✦ <strong>Júlia Hartmann</strong>  —  [@JuliaaHartmann](https://github.com/JuliaaHartmann)
 
 
-## 🛠️ Stack
+### 🛠️ Stack
 
 <p align="left">
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" alt="C#" title="C#" />
@@ -34,15 +34,11 @@
 
 <br>
 
-# 📂 Projetos
+### 📂 Projetos
 
-### 🎓 [Escola de Cursos](https://github.com/DotSisters/escola-de-cursos)
+## 🎓 [Escola de Cursos](https://github.com/DotSisters/escola-de-cursos)
 
 > Sistema de gerenciamento acadêmico para organizar cursos, módulos/aulas, categorias, instrutores, turmas, alunos e matrículas, com consistência garantida por regras de negócio.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DotSisters/escola-de-cursos/main/.docs/home.gif" alt="Demonstração da Escola de Cursos" width="800">
-</p>
 
 <table align="center">
   <tr>
@@ -55,15 +51,17 @@
   </tr>
 </table>
 
----
+<br>
 
-### 📒 [e-Agenda](https://github.com/DotSisters/e-agenda)
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/DotSisters/escola-de-cursos/main/.docs/home.gif" alt="Demonstração da Escola de Cursos" width="800">
+</p> 
+
+<br>
+
+## 📒 [e-Agenda](https://github.com/DotSisters/e-agenda)
 
 > Agenda pessoal completa: contatos, compromissos (presenciais ou remotos), categorias, despesas e tarefas com itens e percentual de conclusão — tudo com regras de negócio bem definidas.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DotSisters/e-agenda/main/.docs/home.gif" alt="Demonstração do e-Agenda" width="800">
-</p>
 
 <table align="center">
   <tr>
@@ -76,15 +74,17 @@
   </tr>
 </table>
 
----
-
-### 💊 [Controle de Medicamentos](https://github.com/DotSisters/controle-de-medicamentos-web)
-
-> Sistema para farmácias/postos controlarem fornecedores, pacientes, medicamentos, funcionários e o fluxo de estoque (entradas e saídas), destacando medicamentos em falta.
+<br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DotSisters/controle-de-medicamentos-web/main/.docs/home.gif" alt="Demonstração do Controle de Medicamentos" width="800">
-</p>
+  <img src="https://raw.githubusercontent.com/DotSisters/e-agenda/main/.docs/home.gif" alt="Demonstração do e-Agenda" width="800">
+</p> 
+
+<br>
+
+## 💊 [Controle de Medicamentos](https://github.com/DotSisters/controle-de-medicamentos-web)
+
+> Sistema para farmácias/postos controlarem fornecedores, pacientes, medicamentos, funcionários e o fluxo de estoque (entradas e saídas), destacando medicamentos em falta.
 
 <table align="center">
   <tr>
@@ -97,15 +97,17 @@
   </tr>
 </table>
 
----
-
-### 🛒 [Lista de Compras](https://github.com/DotSisters/lista-de-compras-web)
-
-> Aplicação para montar e gerenciar listas de compras, com produtos organizados por categoria, unidades de medida, preços aproximados e cálculo automático do total estimado.
+<br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DotSisters/lista-de-compras-web/main/.docs/home.gif" alt="Demonstração da Lista de Compras" width="800">
+  <img src="https://raw.githubusercontent.com/DotSisters/controle-de-medicamentos-web/main/.docs/home.gif" alt="Demonstração do Controle de Medicamentos" width="800">
 </p>
+
+<br>
+
+## 🛒 [Lista de Compras](https://github.com/DotSisters/lista-de-compras-web)
+
+> Aplicação para montar e gerenciar listas de compras, com produtos organizados por categoria, unidades de medida, preços aproximados e cálculo automático do total estimado.
 
 <table align="center">
   <tr>
@@ -118,15 +120,17 @@
   </tr>
 </table>
 
----
-
-### 📚 [Clube da Leitura](https://github.com/DotSisters/clube-da-leitura-web)
-
-> Sistema para organizar o empréstimo de revistas em quadrinhos: caixas, revistas, amigos e controle de empréstimos/devoluções, com destaque visual para atrasos.
+<!-- <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DotSisters/clube-da-leitura-web/main/.docs/clubeleituraweb.gif" alt="Demonstração do Clube da Leitura" width="800">
-</p>
+  <img src="https://raw.githubusercontent.com/DotSisters/lista-de-compras-web/main/.docs/home.gif" alt="Demonstração da Lista de Compras" width="800">
+</p> -->
+
+<br>
+
+## 📚 [Clube da Leitura](https://github.com/DotSisters/clube-da-leitura-web)
+
+> Sistema para organizar o empréstimo de revistas em quadrinhos: caixas, revistas, amigos e controle de empréstimos/devoluções, com destaque visual para atrasos.
 
 <table align="center">
   <tr>
@@ -139,15 +143,24 @@
   </tr>
 </table>
 
----
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DotSisters/clube-da-leitura-web/main/.docs/clubeleituraweb.gif" alt="Demonstração do Clube da Leitura" width="800">
+</p>
+
+<br>
+
+<p align="center">
+  <sub>Projetos desenvolvidos e revisados no contexto da <a href="https://academiadoprogramador.com.br">Academia do Programador</a>.</sub>
+</p>
+
+<br>
 
 <p align="center">
   <img src="./header-dotsisters.png" alt="DotSisters" width="100%">
 </p>
 
-<p align="center">
-  <sub>Projetos desenvolvidos e revisados no contexto da <a href="https://academiadoprogramador.com.br">Academia do Programador</a>.</sub>
-</p>
 
 
 
