@@ -7,15 +7,12 @@
 > Somos uma organização criada para o desenvolvimento colaborativo de projetos de software durante nossa jornada na [Academia do Programador](https://academiadoprogramador.com.br).
 > Aqui centralizamos nossos estudos, desafios e aplicações desenvolvidas em dupla, aplicando boas práticas de engenharia de software, arquitetura em camadas, versionamento com Git e desenvolvimento Full Stack utilizando o ecossistema .NET.
 
-<br>
-
  ## 🎀 Integrantes
 
 ✦ <strong>Natália Bortoli Vieira</strong>  —  [@nataliavieirab](https://github.com/nataliavieirab)
 <br>
 ✦ <strong>Júlia Hartmann</strong>  —  [@JuliaaHartmann](https://github.com/JuliaaHartmann)
 
-<br>
 
 ## 🛠️ Stack
 
