@@ -11,7 +11,7 @@ Aqui centralizamos nossos estudos, desafios e aplicações desenvolvidas em dupl
 
 ### 🛠️ Tecnologias / Stack
 
-<p align="center">
+<p align="left">
   <!-- Languages -->
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" alt="C#" title="C#" />
 
