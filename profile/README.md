@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./header-dotsisters.png" alt="DotSisters" width="100%">
+</p>
+
 # DotSisters
 
 > Somos uma organização criada para o desenvolvimento colaborativo de projetos de software durante nossa jornada na [Academia do Programador](https://academiadoprogramador.com.br).
@@ -108,6 +112,9 @@ Sistema para organizar o empréstimo de revistas em quadrinhos: caixas, revistas
 **Tecnologias:** .NET 10 · ASP.NET Core MVC · Razor Views · Bootstrap 5 · Persistência em arquivo JSON
 
 ---
+<p align="center">
+  <img src="./header-dotsisters.png" alt="DotSisters" width="100%">
+</p>
 
 <p align="center">
   <sub>Projetos desenvolvidos e revisados no contexto da <a href="https://academiadoprogramador.com.br">Academia do Programador</a>.</sub>
