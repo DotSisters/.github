@@ -41,7 +41,7 @@
 
 <br>
 
-## 📂 Projetos
+# 📂 Projetos
 
 ### 🎓 [Escola de Cursos](https://github.com/DotSisters/escola-de-cursos)
 
